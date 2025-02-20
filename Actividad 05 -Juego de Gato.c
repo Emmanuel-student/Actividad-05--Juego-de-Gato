@@ -28,10 +28,10 @@ void menu()
 
 void inicializar()
 {
-    printf("\t0,0\t|\t0,1\t|\t0,2\n");
+    printf("\t1\t|\t2\t|\t3\n");
     printf("\t------------------------------------\n");
-    printf("\t1,0\t|\t1,1\t|\t1,2\n");
+    printf("\t4\t|\t5\t|\t6\n");
     printf("\t------------------------------------\n");
-    printf("\t2,0\t|\t2,1\t|\t2,2\n");
+    printf("\t7\t|\t8\t|\t9\n");
     tablero();
 }
