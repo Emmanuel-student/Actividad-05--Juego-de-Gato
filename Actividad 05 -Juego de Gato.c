@@ -3,6 +3,7 @@
 //Actividad 05 -Juego de Gato
 int main()
 {
-  printf("Hola mundo");
+  printf("Hola mundo\n");
+  printf("Hola\n")
   return 0;
 }
